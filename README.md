@@ -7,7 +7,7 @@
 
 ####  Add key in info.plist
 
-> NSLocationWhenInUseUsageDescription  Type String
+> NSLocationWhenInUseUsageDescription  Type String <br>
   NSLocationAlwaysUsageDescription     Type String
   
   
