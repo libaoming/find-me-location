@@ -11,7 +11,7 @@
   NSLocationAlwaysUsageDescription     &nbsp; &nbsp; &nbsp; Type String
   
   
-***
+<br>
 
 
 ### import coreLocation kit in .swift, add CLLocationManagerDelegate to UIViewController class
