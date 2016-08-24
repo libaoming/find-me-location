@@ -5,6 +5,14 @@
 
 *** 
 
+####  Add key in info.plist
+
+> NSLocationWhenInUseUsageDescription  Type String
+  NSLocationAlwaysUsageDescription     Type String
+  
+  
+***
+
 
 ### import coreLocation kit in .swift, add CLLocationManagerDelegate to UIViewController class
 
